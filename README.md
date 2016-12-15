@@ -5,4 +5,4 @@ This portfolio was created during LEV's Cabe +1 Development. The plan was creati
 ![March's latest portfolio update](http://i.imgur.com/cRPBR12.png)
 
 # License
-![APACHE](LICENSE)
+[APACHE](LICENSE)
