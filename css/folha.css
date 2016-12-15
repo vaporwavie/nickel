@@ -1,0 +1,52 @@
+.container-fluid {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+body {
+  font: 20px monospace;
+line-height: 1.8;
+color: #f5f6f7;
+}
+
+div#principal {
+    background-image: url(cover/back.jpg);
+    display: table;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.bg-1 {
+  font-size: 18px;
+}
+
+.bg-2 {
+    background-color: #474e5d;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.bg-4 {
+    background-color: #2f2f2f;
+    color: #ffffff;
+    font-kerning: none;
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+
+.navbar-nav li a:hover {
+    color: #1abc9c !important;
+}
